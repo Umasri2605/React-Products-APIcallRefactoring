@@ -29,8 +29,8 @@ function Productslist(){
       )
       })
     }
-      </ul>
-    </div>
+    </ul>
+   </div>
   )
 }
 export default Productslist;
